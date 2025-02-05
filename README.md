@@ -51,6 +51,6 @@ You can obtain an API key by signing up at [Spoonacular](https://spoonacular.com
 This project is open-source and can be modified as per requirements.
 
 ## Author
-Developed by [Anjali Dahake]
+Developed by Anjali Dahake
 
 
